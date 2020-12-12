@@ -40,5 +40,23 @@
       "orders": [],
       "bookings": []
     }
+  ],
+  "bouqets": [
+    {
+      "name": "Chocolate bouqet",
+      "image_url": "https://i.pinimg.com/originals/8d/6e/27/8d6e27f24c92afbd9a61d2ef6eaae23e.jpg"
+    },
+    {
+      "name": "Rose bouqet",
+      "image_url": "https://images.unsplash.com/photo-1512056495345-913a0c261dc8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzF8fHJlZCUyMHJvc2VzJTIwYm91cXVldHxlbnwwfHwwfA%3D%3D&w=1000&q=80"
+    },
+    {
+      "name": "White Rose bouqet",
+      "image_url": "https://lh3.googleusercontent.com/proxy/Tc8pYBpI2QT-6XtfhRu_QoZTqC7UH_ds1xOEd57JrsNfWwEFAxo0K_FTpAt2i_sypOeZbnuoLZThM70mNIYU_1LGi9htZ6RXu3-Wc8_7o3zdGdvusj-SzxytvYeK"
+    },
+    {
+      "name": "Tulip bouqet",
+      "image_url": "https://2.bp.blogspot.com/-q4l9oAyPMDU/UopJm_DsfjI/AAAAAAAAAic/PQ5gAoG4Nbs/s1600/Flower+Tulip+Bouquet+Wallpaper.jpg"
+    }
   ]
 }
